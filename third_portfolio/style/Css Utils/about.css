@@ -1,0 +1,58 @@
+.about__me {
+  width: 100%;
+  height: 100vh;
+}
+
+.top {
+  text-align: center;
+  line-height: 1.4;
+}
+
+.top h3 {
+  font-size: 18px;
+  color: #818181;
+}
+
+.top h1 {
+  font-size: 48px;
+}
+
+.bottom {
+  width: 100%;
+  height: calc(100vh - 20vh);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5rem;
+}
+
+.bottom__left img {
+  width: 300px;
+  border-radius: 15px;
+}
+
+.bottom__right {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+.exp img {
+  width: 30px;
+}
+.edu img {
+  width: 30px;
+}
+
+.exp {
+  padding: 20px 70px;
+  border-radius: 20px;
+  border: 2px solid #7c7c7c;
+}
+
+.edu {
+  padding: 20px 70px;
+  border-radius: 20px;
+  border: 2px solid #7c7c7c;
+}

@@ -1,0 +1,103 @@
+.footer {
+  width: 100%;
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: var(--clr-zinc900);
+  padding-left: 150px;
+}
+
+.foot__left img {
+  width: 8rem;
+}
+
+.foot__left p {
+  color: var(--clr-light-gray);
+}
+
+.links {
+  color: var(--clr-light-gray);
+  padding-top: 18px;
+}
+
+.links i {
+  margin-left: 1rem;
+  font-size: 25px;
+  transition: 0.1s linear;
+}
+
+.links i:hover {
+  cursor: pointer;
+  color: var(--clr-blue700);
+}
+
+.foot__right {
+  padding-right: 150px;
+  display: flex;
+  gap: 90px;
+  line-height: 1.8;
+}
+
+.elem-1 h4 {
+  font-size: 20px;
+  font-weight: 600;
+  color: var(--clr-light-gray);
+}
+
+.elem-1 ul {
+  list-style: none;
+}
+
+.elem-1 a {
+  text-decoration: none;
+  color: var(--clr-light-gray);
+  transition: 0.1s linear;
+}
+
+.elem-1 a:hover {
+  cursor: pointer;
+  color: var(--clr-blue700);
+}
+
+.elem-2 h4 {
+  font-size: 20px;
+  font-weight: 600;
+  color: var(--clr-light-gray);
+}
+
+.elem-2 ul {
+  list-style: none;
+}
+
+.elem-2 a {
+  text-decoration: none;
+  color: var(--clr-light-gray);
+  transition: 0.1s linear;
+}
+
+.elem-2 a:hover {
+  cursor: pointer;
+  color: var(--clr-blue700);
+}
+
+.elem-3 h4 {
+  font-size: 20px;
+  font-weight: 600;
+  color: var(--clr-light-gray);
+}
+
+.elem-3 ul {
+  list-style: none;
+}
+
+.elem-3 a {
+  text-decoration: none;
+  color: var(--clr-light-gray);
+  transition: 0.1s linear;
+}
+
+.elem-3 a:hover {
+  cursor: pointer;
+  color: var(--clr-blue700);
+}

@@ -1,0 +1,26 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+:root {
+  --clr-white: #ffffff;
+  --clr-light-gray: #acacac;
+  --clr-rose-light: #ffe4e6;
+  --clr-blue700: #1d4ed8;
+  --clr-blue300: #0c3ec8;
+  --clr-gray400: #9ca3af;
+  --clr-gray800: #1f2937;
+  --clr-zinc900: #18181b;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
